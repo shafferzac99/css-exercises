@@ -1,0 +1,19 @@
+/* All odd numbered elements */
+.odd { 
+    background-color: #d34a4a30;
+    font-family: Veranda, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: #1010c9; 
+    font-size: 32px;
+}
+
+.big {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(10, 130, 10);
+    font-weight: bold;
+}
