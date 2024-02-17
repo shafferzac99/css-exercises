@@ -7,11 +7,27 @@ img {
   height: 100px;
 }
 
+.images{
+  display:flex;
+  justify-content: space-evenly;
+  gap: 52px;
+}
+
+.unit{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 .title {
   font-size: 36px;
   font-weight: 900;
 }
 
+.center{
+  display: flex;
+  justify-content: center;
+}
 /* do not edit this footer */
 .footer {
   position: fixed;
